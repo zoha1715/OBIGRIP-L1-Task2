@@ -2,6 +2,7 @@
 level 1 task 1 Portfolio
 <b># Portfolio using HTML,CSS,BootStarp</b>
 <b>Portfolio :</b>
-![](https://github.com/zoha1715/OBIGRIP-L1-Task2/blob/main/t2i1.png)
-<b>Portfolio 2:</b>
 ![](https://github.com/zoha1715/OBIGRIP-L1-Task2/blob/main/t2i2.png)
+<b>Portfolio 2:</b>
+![](https://github.com/zoha1715/OBIGRIP-L1-Task2/blob/main/t2i1.png)
+
